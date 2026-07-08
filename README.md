@@ -25,3 +25,6 @@ gradlew generateJavaScript
 
 
 Now, go into the out folder and host it as a web server!
+
+
+Note: Disable your adblocker. I don't know why but it stops the game from running.
